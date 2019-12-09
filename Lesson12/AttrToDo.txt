@@ -1,0 +1,5 @@
+Text "TODO:name"
+Timestamp (Not sure if and what's the name for a timestamp) "TODO:deadline"
+Int-32 "TODO:done"
+Int-32 "TODO:priority"
+Text "TODO:category"
