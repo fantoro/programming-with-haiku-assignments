@@ -1,0 +1,27 @@
+BEOS:APP_SIG
+BEOS:LOCALE_LANGUAGE
+BEOS:LOCALE_SIGNATURE
+MAIL:draft
+MAIL:flags
+META:address - someone's address
+META:city - someone's city
+META:company - the company associated with the file or person
+META:country - somoene's country
+META:email - someone's email address
+META:fax - someone's fax number
+META:group - someone's group
+META:hphone - someone's landline phone number
+META:name - someone's full name
+META:nickname - someone's nick name
+META:state - someone's state, province etc.
+META:url - someone's website
+META:wphone - someone's mobile phone(?)
+META:zip
+_signature
+_status
+_trk/qrylastchange
+_trk/recentQuery
+be:deskbar_item_status
+last_modified - last time something was modified
+name - something's name
+size - something's size

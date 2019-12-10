@@ -1,0 +1,1 @@
+You could use queries to have the app print out every contact or appointment, or task, or e-mail or you could have it print all of these at once and have the app let you open them/use them.

@@ -1,0 +1,1 @@
+You could use queries to find every track made by an artist and put them in a directory, or find all tracks belonging to an album and put it in its own directory.
